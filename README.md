@@ -1,2 +1,2 @@
 # PanoramaPumpkin
-Panorama pumpkin -3D polycam model
+The 3D pumpkin is a real pumpkin I painted with my dog's (Joy's) imagine for Halloween 2024 using acrylic paint. I digitlized the pumpkin into a 3D model using the Polycam app, using technology similar to LiDAR (Light, Detection, and Ranging) technology to create a scanned 3D model. I photographed the pumpkin from multiple angles and processed the images with the app and desktop version. A digitized 3D model is the best way to preserve the pumpkin. The volume, textures, and ambiance of the pumpkin is best in preserved and presented in 3D rather than in flat photographs or videos. My aim for the 3D pumpkin is to preserve the pumpkin and to share the art with others.
